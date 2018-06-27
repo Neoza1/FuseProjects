@@ -1,0 +1,7 @@
+This is the new comment file. New comments will be added here!
+
+This will be committed from remote GitHub
+
+This one will be committed from GIT
+
+This one will be from GIT bash
