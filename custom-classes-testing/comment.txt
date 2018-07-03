@@ -5,3 +5,5 @@ This will be committed from remote GitHub
 This one will be committed from GIT
 
 This one will be from GIT bash
+
+Version 1 @ GitHub remote repository.
