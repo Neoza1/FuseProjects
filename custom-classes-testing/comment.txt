@@ -9,3 +9,5 @@ This one will be from GIT bash
 Version 1 @ GitHub remote repository.
 
 Version 2 @ GitHub remote repository.
+
+Editing the file using a different user that does not have write access to. Version 3
